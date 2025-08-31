@@ -1,7 +1,7 @@
-<x-vars video-size=0 starmedia=ratt-tip.ogg>
+<x-vars video-size=0 startmedia=ratt-tip.ogg>
 <small>~Read and listen to this quick tip for language learners~</small>
 ### Struggling with Mistakes? Just RATT and Move On!
-<img src="ratt-tip2.jpg" class=float-left style="margin-right: 20px">
+<img src="ratt-tip.jpg" class=float-left style="margin-right: 20px">
 0:0 Learning a new language can sometimes be frustrating, especially when you keep making the same mistakes even though you know the rules. You might feel annoyed or even embarrassed, and I completely understand and respect those feelings. But let’s pause for a moment. What could you do when you get stuck in frustration? A surprisingly smart creature can help you out: the rat.
 
 Rats are incredibly intelligent. When they face a problem, they don’t waste time feeling defeated — they get busy finding a solution. So, how can this help you with language learning? Simple: when your teacher corrects you, think of the rat and *Repeat After The Teacher (RATT)*.
