@@ -1,9 +1,10 @@
-<x-vars video-size=0 startmedia=ratt-tip.ogg>
+<x-vars speed=0.85 startmedia="ratt-tip.ogg">
 <small>~Read and listen to this quick tip for language learners~</small>
-### Struggling with Mistakes? Just RATT and Move On!
-<img src="ratt-tip.jpg" class=float-left style="margin-right: 20px">
-0:0 Learning a new language can sometimes be frustrating, especially when you keep making the same mistakes even though you know the rules. You might feel annoyed or even embarrassed, and I completely understand and respect those feelings. But let’s pause for a moment. What could you do when you get stuck in frustration? A surprisingly smart creature can help you out: the rat.
+### <color:#703>Struggling with Mistakes? Just RATT and Move On!</color>
+<div class="x-dropcap" style="--dropcap-color: #703"> ^^Learning^^ a new language can sometimes be frustrating, especially when you keep making the same mistakes even though you know the rules. You might feel annoyed or even embarrassed, and I completely understand and respect those feelings. But let’s pause for a moment. What could you do when you get stuck in frustration? A surprisingly smart creature can help you out: the rat.
 
-Rats are incredibly intelligent. When they face a problem, they don’t waste time feeling defeated — they get busy finding a solution. So, how can this help you with language learning? Simple: when your teacher corrects you, think of the rat and *Repeat After The Teacher (RATT)*.
+Rats are highly intelligent. When they face a problem, they don’t waste time feeling defeated — they get busy finding a solution. So, how can this help you with language learning? Simple: when your teacher corrects you, think of the rat and ==Repeat After The Teacher (RATT)==.
 
-It’s a quick, effective trick. Next time you’re corrected, don’t dwell on the mistake — RATT it out and keep moving forward!
+It’s a quick, effective trick. Next time you’re corrected, ==don’t {{think or talk about something for a long time, especially about something bad or unpleasant|dwell on}} the mistake — RATT it out and keep moving forward!==</div>
+
+<img src="ratt-tip.jpg" width=67%><x-audio>
