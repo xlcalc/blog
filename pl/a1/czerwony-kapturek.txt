@@ -1,4 +1,4 @@
-<x-vars video-size=hide lang=pl audio=czerwony-kapturek1.mp3><x-audio>
+<x-vars video-size=hide lang=pl startmedia=czerwony-kapturek1.mp3><x-audio>
 ### Czerwony Kapturek
 
 0:0
@@ -10,3 +10,4 @@ Czerwony Kapturek miał ukochaną babcię, która mieszkała na skraju lasu. Pew
 1:00
 
 Czerwony Kapturek posłuchał mamy i wyruszył w drogę. Dziewczynka trzymała się dobrze wydeptanej leśnej ścieżki, dopóki nie zauważyła czerwonych jagód, które pachniały zachęcająco. Zerwała jedną, potem drugą i tak jej zasmakowały, że zaczęła zbierać ich jak najwięcej. Podczas zbierania zagłębiła się w las i nagle pojawił się przed nią wilk!
+
