@@ -1,5 +1,5 @@
 <x-vars video-size=hide lang=pl startmedia=czerwony-kapturek1.mp3><x-audio>
-### Czerwony Kapturek
+### [Czerwony Kapturek](https://www.bajkokraj.pl/czerwony-kapturek/)
 
 0:0
 Dawno, dawno temu żyła sobie mała dziewczynka, którą wszyscy nazywali Czerwonym Kapturkiem – od czerwonego aksamitnego kapturka, który zakładała. Żyła szczęśliwie z mamusią i tatusiem, którzy bardzo ją kochali, podobnie jak wszyscy inni, ponieważ była urocza i grzeczna.
@@ -10,4 +10,5 @@ Czerwony Kapturek miał ukochaną babcię, która mieszkała na skraju lasu. Pew
 1:00
 
 Czerwony Kapturek posłuchał mamy i wyruszył w drogę. Dziewczynka trzymała się dobrze wydeptanej leśnej ścieżki, dopóki nie zauważyła czerwonych jagód, które pachniały zachęcająco. Zerwała jedną, potem drugą i tak jej zasmakowały, że zaczęła zbierać ich jak najwięcej. Podczas zbierania zagłębiła się w las i nagle pojawił się przed nią wilk!
+
 
