@@ -1,4 +1,6 @@
-<x-vars video-size=hide lang=pl startmedia=czerwony-kapturek1.mp3><x-audio><h3 class=center>[Czerwony Kapturek](https://www.bajkokraj.pl/czerwony-kapturek/ Otwórz bajkę na bajkokraj.pl)</h3>
+<x-vars video-size=hide lang=pl startmedia=czerwony-kapturek1.mp3><x-audio><h3 class=center>Czerwony Kapturek</h3>
+##font-size:80%; text-align:center## Oryginalnie opublikowano przez [Bajkokraj](https://www.bajkokraj.pl/czerwony-kapturek/)
+
 
 [<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com)
 
@@ -11,6 +13,7 @@ Czerwony Kapturek miał ukochaną babcię, która mieszkała na skraju lasu. Pew
 1:00
 
 Czerwony Kapturek posłuchał mamy i wyruszył w drogę. Dziewczynka trzymała się dobrze wydeptanej leśnej ścieżki, dopóki nie zauważyła czerwonych jagód, które pachniały zachęcająco. Zerwała jedną, potem drugą i tak jej zasmakowały, że zaczęła zbierać ich jak najwięcej. Podczas zbierania zagłębiła się w las i nagle pojawił się przed nią wilk!
+
 
 
 
