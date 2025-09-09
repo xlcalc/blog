@@ -1,4 +1,4 @@
-<x-vars video-size=hide max-width=100% lang=pl startmedia=czerwony-kapturek-a1.mp3><x-audio><div class="rel flex-hor-center m-wrap"><div title="Toggle translation" class="abs font-80pc action-icon no-tts" style="right:8px; width:auto" onclick="toggleElid('transl-div', 'pic'); toggleEl(this, 'green')"><div class="inline font-75pc" style="vertical-align:15%">文</div><div class="inline font-85pc font-monospace" style="vertical-align:-10%; margin: 0 .2em 0 -.2em">A</div></div><div style="max-width: 700px; margin:1em 2em 0 0"><h3 class=center>Czerwony Kapturek</h3>
+<x-vars video-size=hide max-width=100% lang=pl startmedia=czerwony-kapturek-a1.mp3><x-audio><div class="rel flex-hor-center m-wrap"><div title="Toggle translation" class="abs font-80pc action-icon no-tts" style="right:8px; width:auto" onclick="toggleElid('transl-div', 'pic'); toggleEl(this, 'green')"><div class="inline font-75pc" style="vertical-align:15%">文</div><div class="inline font-85pc font-monospace" style="vertical-align:-10%; margin-left: -.2em">A</div></div><div style="max-width: 700px; margin:0 2em 0 0"><h3 class=center>Czerwony Kapturek</h3>
 
 <div id="pic">[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com)</div>
 
@@ -36,7 +36,7 @@ Dziewczynka spojrzała na niego z lekkim niepokojem.
 I zanim Czerwony Kapturek zdążył coś powiedzieć, wilk zniknął w krzakach. Biegł szybko, na skróty, bo dobrze znał las. Chciał dotrzeć do domu babci pierwszy.
 
 </div>
-<div id="transl-div" class="hidden" style="margin:1em 0 0 0" lang=en><h3 class=center>Little Red Riding Hood</h3>
+<div id="transl-div" class="hidden" style="margin:0 1em 0 0" lang=en><h3 class=center>Little Red Riding Hood</h3>
 
 
 Once upon a time, there lived a little girl whom everyone called Little Red Riding Hood, because she often wore a red hood. She lived with her mom and dad. She was very nice, so everyone liked her.
@@ -73,5 +73,6 @@ And before Little Red Riding Hood could say anything, the wolf disappeared into 
 
 </div>
 </div>
+
 
 
