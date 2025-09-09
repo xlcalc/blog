@@ -1,0 +1,75 @@
+<x-vars video-size=hide max-width=100% lang=pl startmedia=czerwony-kapturek-a1.mp3><x-audio><div class="rel flex-hor-center m-wrap"><div title="Toggle translation" class="abs font-80pc ptr" style="right:8px" onclick="toggleElid('transl-div', 'pic'); toggleEl(this, 'green')"><div class="inline font-75pc" style="vertical-align:15%">文</div><div class="inline font-85pc font-monospace" style="vertical-align:-10%; margin: 0 .2em 0 -.2em">A</div></div><div style="max-width: 700px; margin:1em 2em 0 0"><h3 class=center>Czerwony Kapturek</h3>
+
+<div id="pic">[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com)</div>
+
+0:0 
+Dawno, dawno temu żyła sobie dziewczynka, którą wszyscy nazywali Czerwonym Kapturkiem, bo często nosiła czerwony kaptur. Mieszkała z mamą i tatą. Była bardzo miła, więc wszyscy ją lubili.
+
+Pewnego dnia mama powiedziała:
+
+– Kochanie, babcia jest chora. Zanieś jej ten koszyk z ciastem i sokiem. Ale idź prosto leśną ścieżką i nie rozmawiaj z nieznajomymi, dobrze?
+
+– Dobrze, mamo – odpowiedziała dziewczynka, wzięła koszyk i poszła do babci.
+
+Szła sobie spokojnie przez las. Nagle zobaczyła czerwone soczyste jagody i bardzo zapragnęła je zjeść. Zerwała jedną, potem drugą, trzecią… i zapomniała o ścieżce.
+
+Weszła głębiej w las.
+
+I wtedy… pojawił się wilk!
+
+– Dokąd idziesz, dziewczynko? – zapytał, starając się mówić miłym głosem.
+
+– Idę do babci – odpowiedział Czerwony Kapturek. – Babcia jest chora. Zanoszę jej ciasto i sok.
+
+– Ooo, to bardzo miłe – powiedział wilk i uśmiechnął się. – A gdzie mieszka babcia?
+
+– W małym domku, za dużym dębem, na końcu ścieżki.
+
+– No proszę, no proszę… – powiedział wilk, patrząc w stronę lasu. – Samotna, chora babcia… Jaka szkoda.
+
+Dziewczynka spojrzała na niego z lekkim niepokojem.
+
+– Mama mówiła, żeby nie rozmawiać z nieznajomymi – dodała.
+
+– Oczywiście, mama ma rację! – uśmiechnął się wilk. – Ja tylko… lubię pomagać. Może też odwiedzę twoją babcię. Życzę jej dużo zdrowia!
+
+I zanim Czerwony Kapturek zdążył coś powiedzieć, wilk zniknął w krzakach. Biegł szybko, na skróty, bo dobrze znał las. Chciał dotrzeć do domu babci pierwszy.
+
+</div>
+<div id="transl-div" class="hidden" style="margin:1em 0 0 0" lang=en><h3 class=center>Little Red Riding Hood</h3>
+
+
+Once upon a time, there lived a little girl whom everyone called Little Red Riding Hood, because she often wore a red hood. She lived with her mom and dad. She was very nice, so everyone liked her.
+
+One day, her mom said:
+
+– Sweetheart, grandma is sick. Take her this basket with cake and juice. But go straight along the forest path and don’t talk to strangers, okay?
+
+– Okay, mommy – replied the girl, took the basket and went to grandma’s.
+
+She was walking peacefully through the forest. Suddenly she saw red, juicy berries and really wanted to eat them. She picked one, then another, a third… and forgot about the path.
+
+She went deeper into the forest.
+
+And then… the wolf appeared!
+
+– Where are you going, little girl? – he asked, trying to speak in a nice voice.
+
+– I’m going to grandma’s – answered Little Red Riding Hood. – Grandma is sick. I’m bringing her cake and juice.
+
+– Ohhh, that’s very nice – said the wolf and smiled. – And where does grandma live?
+
+– In a little house, behind the big oak, at the end of the path.
+
+– Well, well… – said the wolf, looking toward the forest. – A lonely, sick grandma… What a pity.
+
+The girl looked at him with slight unease.
+
+– Mommy said not to talk to strangers – she added.
+
+– Of course, mommy is right! – the wolf smiled. – I just… like to help. Maybe I’ll visit your grandma too. I wish her good health!
+
+And before Little Red Riding Hood could say anything, the wolf disappeared into the bushes. He ran quickly, taking a shortcut, because he knew the forest well. He wanted to reach grandma’s house first.
+
+</div>
+</div>
