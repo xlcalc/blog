@@ -1,0 +1,45 @@
+<x-vars lang=de video-size=hide>
+### [Der Schwarzwald](https://learngerman.dw.com/de/der-schwarzwald/l-67232952/rs-67237380 Aus dem DW-Deutschkurs „Harry gefangen in der Zeit“)
+
+Harry macht Urlaub im Schwarzwald. Der Schwarzwald ist ein deutsches Mittelgebirge und als Ferienziel sehr beliebt. Kein Wunder, dass auch Harry und Julia dort Urlaub machen. Der Schwarzwald liegt im Südwesten Deutschlands und grenzt an Frankreich und die Schweiz. Eingerahmt wird er von den Flüssen Rhein und Neckar und bedeckt ein Gebiet, das größer ist als die Insel Jamaika.
+
+Der Schwarzwald liegt im Südwesten von Deutschland. Der Name „Schwarzwald“ klingt nach einem dunklen und unheimlichen Ort. Doch man sollte sich dadurch nicht täuschen lassen. Die Bezeichnung kommt von den großen, dichten Nadelwäldern, die aus der Ferne eben diesen düsteren Eindruck erzeugen. Tatsächlich gibt es im Schwarzwald Gegenden, in denen die Sonne durchschnittlich häufiger scheint als an vielen anderen Orten Deutschlands. Allerdings wüten über dem Schwarzwald auch manchmal heftige Gewitter mit gefährlichen Blitzen!
+:vocab:
+Gebirge = mountains
+ In den Alpen gibt es viele schöne Gebirge.
+
+bedeckt = covers
+ Der Himmel ist heute mit Wolken bedeckt.
+
+Gebiet = area
+ Ich kenne mich in diesem Gebiet sehr gut aus.
+
+unheimlich = eerie, uncanny
+ Es war eine unheimlich stille Nacht im Wald.
+
+täuschen = deceive, fool
+ Die Werbung kann dich leicht täuschen.
+
+dicht = dense
+ Der Wald war so dicht, dass man fast nichts sehen konnte.
+
+düster = gloomy, murky
+ Der Tag war düster und es fing bald an zu regnen.
+
+erzeugen = generate, engender, produce
+ Das Feuer erzeugt eine große Wärme.
+
+tatsächlich = actually
+ Tatsächlich habe ich meinen Schlüssel zu Hause vergessen.
+
+durchschnittlich = on average
+ Durchschnittlich trinke ich zwei Tassen Kaffee am Tag.
+
+wüten = rage, cause havoc
+ Der Sturm hat gestern Nacht heftig gewütet.
+
+heftig = violent, fierce
+ Der Wind war so heftig, dass er Bäume entwurzelt hat.
+
+Gewitter = thunderstorm
+ Ein starkes Gewitter zog am Abend auf.
