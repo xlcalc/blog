@@ -1,6 +1,39 @@
 <x-vars video-size=hide lang=en>
 ## Little Red Riding Hood
 
+*I*
+Once upon a time, there lived a little girl whom everyone called Little Red Riding Hood, because she often wore a red hood. She lived with her mom and dad. She was very nice, so everyone liked her.
+
+One day, her mom said:
+
+– Sweetheart, grandma is sick. Take her this basket with cake and juice. But go straight along the forest path and don’t talk to strangers, okay?
+
+– Okay, mommy – replied the girl, took the basket and went to grandma’s.
+
+She was walking peacefully through the forest. Suddenly she saw red, juicy berries and really wanted to eat them. She picked one, then another, a third… and forgot about the path.
+
+She went deeper into the forest.
+
+And then… the wolf appeared!
+
+– Where are you going, little girl? – he asked, trying to speak in a nice voice.
+
+– I’m going to grandma’s – answered Little Red Riding Hood. – Grandma is sick. I’m bringing her cake and juice.
+
+– Ohhh, that’s very nice – said the wolf and smiled. – And where does grandma live?
+
+– In a little house, behind the big oak, at the end of the path.
+
+– Well, well… – said the wolf, looking toward the forest. – A lonely, sick grandma… What a pity.
+
+The girl looked at him with slight unease.
+
+– Mommy said not to talk to strangers – she added.
+
+– Of course, mommy is right! – the wolf smiled. – I just… like to help. Maybe I’ll visit your grandma too. I wish her good health!
+
+And before Little Red Riding Hood could say anything, the wolf disappeared into the bushes. He ran quickly, taking a shortcut, because he knew the forest well. He wanted to reach grandma’s house first.
+
 *II*
 The wolf ran as fast as his paws could carry him. He jumped over roots, slipped between trees, until at last he saw a small house with a chimney and a garden full of flowers.
 
