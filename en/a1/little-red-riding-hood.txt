@@ -2,8 +2,7 @@
 <h2 class="center"> <color:#901>Little Red Riding Hood</color></h2>
 
 
-
-<div class="center">*I*</div>
+<h3 class="center">I</h3>
 <div class="x-dropcap" style="--dropcap-color: #901">^^Once upon a time^^, there lived a little girl whom everyone called Little Red Riding Hood, because she often wore a red hood. She lived with her mom and dad. She was very nice, so everyone liked her.
 
 One day, her mom said:
@@ -37,7 +36,7 @@ The girl looked at him with slight unease.
 And before Little Red Riding Hood could say anything, the wolf disappeared into the bushes. He ran quickly, taking a shortcut, because he knew the forest well. He wanted to reach grandma’s house first.
 
 
-<div class="center">*II*</div>
+<h3 class="center">II</h3>
 The wolf ran as fast as his paws could carry him, jumping over bushes and slipping between trees, until at last he saw a small house with a chimney and a garden full of flowers.
 
 “This must be the place,” he hissed with a smile.
@@ -85,7 +84,7 @@ Then he licked his lips happily, lay down comfortably in the bed, and murmured:
 And he fell asleep right away, snoring loudly under Grandma’s blanket.
 
 
-<div class="center">*III*</div>
+<h3 class="center">III</h3>
 Just then, a huntsman happened to pass by Grandma's house. He heard a loud snoring sound and thought it was rather strange.
 
 “Hmmm, something’s not quite right here,” he muttered. “I better check on Grandma.”
@@ -110,5 +109,5 @@ From that day on, Little Red Riding Hood never forgot her mother’s words: ~Alw
 
 As for the wolf, well, kind Grandma took pity on him and sewed up his belly. Ashamed, he promised to behave and cause no more harm. With that, he trotted back into the forest... never to be seen again.
 
-^^The End^^
+<div class="center"><color:#901>^^The End^^</color></div>
 
