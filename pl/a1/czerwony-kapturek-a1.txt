@@ -35,6 +35,9 @@ I wtedy… pojawił się wilk!
 
 I zanim Czerwony Kapturek zdążył coś powiedzieć, wilk zniknął w krzakach. Biegł szybko, na skróty, bo dobrze znał las. Chciał dotrzeć do domu babci pierwszy.
 
+
+*Teraz słuchaj i powtarzaj za mówcą* <button onclick="tstore.ttsOverlay.shadowLines()">Start!</button>
+
 </div>
 <div id="transl-div" class="hidden" style="margin:0 1em 0 0" lang=en><h3 class=center>Little Red Riding Hood</h3>
 
