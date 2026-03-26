@@ -1,15 +1,15 @@
-<x-vars video-size=hide max-width=100% lang=pl startmedia=czerwony-kapturek-a1.mp3><x-audio><div class="rel flex-hor-center m-wrap"><div title="Toggle translation" class="abs font-80pc action-icon no-tts" style="right:8px; width:auto" onclick="toggleElid('transl-div', 'pic'); toggleEl(this, 'green')">${gstore.translateIcon}</div><div style="max-width: 700px; margin:0 2em 0 0"><h3 class=center>Czerwony Kapturek</h3>
+<x-vars video-size=hide max-width=100% lang=pl text-cloze><x-audio><div class="rel flex-hor-center m-wrap"><div title="Toggle translation" class="abs font-80pc action-icon no-tts" style="right:8px; width:auto" onclick="toggleElid('transl-div', 'pic'); toggleEl(this, 'green')">${gstore.translateIcon}</div><div style="max-width: 700px; margin:0 2em 0 0"><div class="float-left font-75pc no-tts">Luki {x-view-gaps}</div><h3 class=center>Czerwony Kapturek</h3>
 
 <div id="pic">[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com)</div>
 
 0:0 
-Dawno, dawno temu żyła sobie dziewczynka, którą wszyscy nazywali Czerwonym Kapturkiem, bo często nosiła czerwony kaptur. Mieszkała z mamą i tatą. Była bardzo miła, więc wszyscy ją lubili.
+Dawno, dawno temu żyła sobie dziewczynka, którą wszyscy [[nazywali => (nazywać)]] Czerwonym Kapturkiem, bo często nosiła czerwony kaptur. Mieszkała z [[mamą i tatą => (mama i tata)]]. Była bardzo miła, więc wszyscy [[ją => (ona)]] lubili.
 
 0:25 Pewnego dnia mama powiedziała:
 
-– Kochanie, babcia jest chora. Zanieś jej ten koszyk z ciastem i sokiem. Ale idź prosto leśną ścieżką i nie rozmawiaj z nieznajomymi, dobrze?
+– Kochanie, babcia jest chora. Zanieś jej ten koszyk z ciastem i sokiem. Ale idź prosto [[leśną ścieżką => (leśna ścieżka)]] i nie rozmawiaj z nieznajomymi, dobrze?
 
-– Dobrze, mamo – odpowiedziała dziewczynka, wzięła koszyk i poszła do babci.
+– Dobrze, mamo – [[odpowiedziała => (odpowiedzieć)]] dziewczynka, wzięła koszyk i poszła do babci.
 
 0:57.2 Szła sobie spokojnie przez las. Nagle zobaczyła czerwone soczyste jagody i bardzo zapragnęła je zjeść. Zerwała jedną, potem drugą, trzecią… i zapomniała o ścieżce.
 
@@ -19,11 +19,11 @@ I wtedy… pojawił się wilk!
 
 1:33 – Dokąd idziesz, dziewczynko? – zapytał, starając się mówić miłym głosem.
 
-– Idę do babci – odpowiedział Czerwony Kapturek. – Babcia jest chora. Zanoszę jej ciasto i sok.
+– [[Idę => (iść)]] do babci – odpowiedział Czerwony Kapturek. – Babcia jest chora. Zanoszę [[jej => (ona)]] ciasto i sok.
 
 – Ooo, to bardzo miłe – powiedział wilk i uśmiechnął się. – A gdzie mieszka babcia?
 
-– W małym domku, za dużym dębem, na końcu ścieżki.
+– W [[małym domku => (mały domek)]], za [[dużym dębem => (duży dąb)]], na [[końcu => (koniec)]] ścieżki.
 
 – No proszę, no proszę… – powiedział wilk, patrząc w stronę lasu. – Samotna, chora babcia… Jaka szkoda.
 
@@ -31,12 +31,11 @@ I wtedy… pojawił się wilk!
 
 – Mama mówiła, żeby nie rozmawiać z nieznajomymi – dodała.
 
-– Oczywiście, mama ma rację! – uśmiechnął się wilk. – Ja tylko… lubię pomagać. Może też odwiedzę twoją babcię. Życzę jej dużo zdrowia!
+– Oczywiście, mama ma rację! – uśmiechnął się wilk. – Ja tylko… lubię pomagać. Może też odwiedzę [[twoją babcię => (twoja babcia)]]. Życzę jej dużo zdrowia!
 
-I zanim Czerwony Kapturek zdążył coś powiedzieć, wilk zniknął w krzakach. Biegł szybko, na skróty, bo dobrze znał las. Chciał dotrzeć do domu babci pierwszy.
+I zanim Czerwony Kapturek zdążył coś powiedzieć, wilk zniknął w krzakach. Biegł szybko, na skróty, bo dobrze znał las. Chciał dotrzeć do [[domu => (dom)]] babci pierwszy.
 
-
-*Teraz słuchaj i powtarzaj za mówcą* <button onclick="tstore.ttsOverlay.shadowLines()">Start!</button>
+*Słuchaj i powtarzaj za mówcą* <button onclick="tstore.ttsOverlay.shadowLines()">Start!</button>
 
 </div>
 <div id="transl-div" class="hidden" style="margin:0 1em 0 0" lang=en><h3 class=center>Little Red Riding Hood</h3>
@@ -76,8 +75,3 @@ And before Little Red Riding Hood could say anything, the wolf disappeared into 
 
 </div>
 </div>
-
-
-
-
-
