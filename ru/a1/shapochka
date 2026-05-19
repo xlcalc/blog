@@ -1,4 +1,5 @@
-<x-vars video-size=hide lang=ru audio=shapochka.mp3><x-audio><h3 class=center>Красная шапочка</h3>
+<x-vars video-size=hide lang=ru audio=shapochka.mp3><x-audio>:section: ru
+<h3 class=center>Красная шапочка</h3>
 
 <div id="pic">[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com)</div>
 0:0 Давным-давно жила-была девочка, которую все называли Красной Шапочкой, потому что она часто носила красный капюшон. Жила она с мамой и папой и была очень доброй, поэтому все её любили.
