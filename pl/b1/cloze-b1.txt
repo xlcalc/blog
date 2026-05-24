@@ -1,0 +1,17 @@
+<x-vars video-size=off text-cloze lang=pl>:section: pl
+#### Wpisz lub podyktuj poprawne formy wyrazów podanych w nawiasach
+##font-size:75%## Na podstawie [przykładowego testu na poziomie B1](https://certyfikatpolski.pl/wp-content/uploads/2019/09/B1_test.pdf)
+
+Historia życia babci Anny [[zawiera => (zawierać)]] wiele trudnych momentów, o których ja i mój mąż [[słyszeliśmy => (słyszeć)]] nie raz. Jednak zawsze, kiedy [[jeździliśmy/my jeździliśmy => (my - jeździć)]] w odwiedziny do dziadków, babcia dzieliła się z nami kolejnymi opowieściami o wojnie. Cała rodzina [[doświadczyła => (doświadczyć)]] wtedy strachu, niepewności, a jeden z [[braci => (brat)]] Anny nigdy nie [[wrócił => (wrócić)]] do domu. Do dziś ani babcia, ani jej siostry nie [[wiedzą => (wiedzieć)]], co się z nim [[stało => (stać)]]. W czasie wojny babcia, jako bardzo młoda dziewczyna, [[zaczęła => (zacząć)]] pracować w jedynej piekarni w [[mieście => (miasto)]]. Dzięki temu w domu od czasu do czasu wszyscy [[jedli => (jeść)]] chleb. A my dzisiaj nie [[możemy => (móc)]] wyobrazić sobie jednego dnia bez pieczywa! Teraz dzieci babci Anny na szczęście nie [[znają => (znać)]] głodu. Babcia ma dwie córki, które dziś [[prowadzą => (prowadzić)]] swoje firmy, a jej syn skończył studia i obecnie [[projektuje => (projektować)]] domy.
+
+*Luki* {x-view-gaps}
+*Słuchaj i powtarzaj za mówcą* <button onclick="tstore.ttsOverlay.shadowLines()">Start!</button>
+
+:section: en
+Enter or dictate the correct forms of the words given in brackets.
+Based on a sample B1-level test
+
+Grandma Anna’s life story contains many difficult moments that my husband and I heard about more than once. However, whenever we visited our grandparents, Grandma shared more stories with us about the war. The whole family experienced fear and uncertainty at that time, and one of Anna’s brothers never returned home. To this day, neither Grandma nor her sisters know what happened to him. During the war, Grandma, as a very young girl, started working in the only bakery in town. Thanks to that, everyone at home ate bread from time to time. And today we cannot imagine a single day without bread! Now, fortunately, Grandma Anna's children do not know hunger. Grandma has two daughters who now run their own companies, and her son graduated from university and currently designs houses.
+
+Gaps
+Listen and repeat after the speaker
