@@ -1,5 +1,4 @@
-<x-vars video-size=hide max-width=100% lang=pl text-cloze><x-audio src=czerwony-kapturek-a1.mp3></x-audio>[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px 20px 0">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com)
-:section: pl
+<x-vars video-size=hide max-width=100% lang=pl text-cloze><x-audio src=czerwony-kapturek-a1.mp3></x-audio>[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px 20px 0">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com):section: pl
 <h3 class=center>Czerwony Kapturek</h3>
 
 0:0 
@@ -35,7 +34,7 @@ I wtedy… pojawił się wilk!
 
 I zanim Czerwony Kapturek zdążył coś powiedzieć, wilk zniknął w krzakach. Biegł szybko, na skróty, bo dobrze znał las. Chciał dotrzeć do [[domu => (dom)]] babci pierwszy.
 
-<div class="float-left font-75pc no-tts">Luki {x-view-gaps}</div>
+*Tekst z lukami {x-view-gaps}*
 *Słuchaj i powtarzaj za mówcą* <button onclick="tstore.ttsOverlay.shadowLines()">Start!</button>
 
 :section: en
