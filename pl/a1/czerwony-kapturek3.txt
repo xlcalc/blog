@@ -1,4 +1,4 @@
-<x-vars video-size=hide max-width=100% lang=pl text-cloze><x-audio src=czerwony-kapturek-a1.mp3></x-audio>[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px 20px 0">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com):section: pl
+<x-vars video-size=hide max-width=100% lang=pl text-cloze><x-audio src=czerwony-kapturek-a1.mp3>[<img src="https://cdn.pixabay.com/photo/2016/10/12/18/32/fairytale-1735406_1280.jpg" width=30% class=float-left style="margin: 20px 20px 20px 0">](https://pixabay.com/illustrations/fairytale-fairy-tale-enchanted-1735406/ Otwórz obraz na pixabay.com):section: pl
 <h3 class=center>Czerwony Kapturek</h3>
 
 0:0 
