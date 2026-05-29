@@ -33,6 +33,14 @@ The girl looked at him with slight unease.
 
 And before Little Red Riding Hood could say anything, the wolf disappeared into the bushes. He ran quickly, taking a shortcut, because he knew the forest well. He wanted to reach Grandma’s house first.
 
+:vocab:
+concern = a feeling of worry or care about someone or something
+ There is growing *concern* about online safety.
+gleam = to shine or be bright
+ Her eyes were *gleaming* with laughter
+delight = joy, great pleasure
+ To my *delight*, the package arrived early.
+
 :section: es
 <h2 class="center"> <color:#901>*Caperucita Roja*</color></h2>
 
