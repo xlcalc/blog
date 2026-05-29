@@ -1,8 +1,9 @@
-<x-vars video-size=off lang=pl>
-### [Lekcja tańca](https://www.facebook.com/sorki.mam.korki/ See the original language task on Facebook)
+<x-vars video-size=off task-title="Click any word to hear">
+:section: pl
+### Lekcja tańca
+##font-size:80%## Źródło: <https://www.facebook.com/groups/1443932955732510/permalink/25332555186443619/>
 
-*Uzupełnij tekst poprawnymi formami czasowników w czasie teraźniejszym* 
-*(Complete the text with the correct forms of the verbs in the present):*
+*Uzupełnij tekst poprawnymi formami czasowników w czasie teraźniejszym:* 
 
 Antonio: Co dzisiaj [[robimy]] (robić - my)?
 
@@ -32,7 +33,7 @@ Antonio: [[Myślę]] (myśleć - ja), że tak, bo biedny Marek siedzi i się mar
 
 Marzena: Masz rację. Porozmawiam z Anią i może też pójdę na lekcję tańca. 😉
 
-*sprawdź/check* {x-view-gaps}
+##font-size:80%## *Pokaż odpowiedzi* {x-view-gaps}
 
 :vocab:
 
@@ -59,4 +60,41 @@ biedny = poor
 martwić się = to worry
 
 pójdę = I will go
+
+:section: en
+### Dance lesson
+##font-size:80%## Source: <https://www.facebook.com/groups/1443932955732510/permalink/25332555186443619/>
+
+*Complete the text with the correct forms of the verbs in the present:*
+
+Antonio: What are we doing today?
+
+Marzena: I think we can go somewhere.
+
+Antonio: Where do you want to go?
+
+Marzena: I don't know. Maybe to Ania and Marek's? They have a small cottage in the mountains in Zakopane.
+
+Antonio: Oh no! I think that's a bad idea. Marek says that Ania is learning to dance now and has a new instructor. This instructor is supposedly from Argentina and very handsome.
+
+Marzena: What are you talking about!?
+
+Antonio: Oh yes! She's been dancing for a month.
+
+Marzena: Ania is my best friend. Why isn't she saying anything!
+
+Antonio: I don't know, but Marek says that Ania goes dancing four times a week! And she has private lessons!
+
+Marzena: Are you kidding!?
+
+Antonio: That's true. She's having a great time, and he's sitting at home wondering if everything is okay.
+
+Marzena: Do you think I should talk to Ania?
+
+Antonio: I think so, because poor Marek is sitting around worrying.
+
+Marzena: You're right. I'll talk to Ania and maybe go to a dance lesson too. ;)
+
+##font-size:80%## *Show answers*
+
 
