@@ -1,0 +1,69 @@
+:section: en
+<h2 class="center"> <color:#901>Little Red Riding Hood</color></h2>
+
+
+<h3 class="center">I</h3>
+<div class="x-dropcap" style="--dropcap-color: #901">^^Once upon a time^^, there lived a little girl whom everyone called Little Red Riding Hood, because she often wore a red hood. She lived with her mom and dad and was so kind that everyone liked her.
+
+One day, her mom said, “Sweetheart, Grandma is sick. Take her this basket with cake and juice. But go straight along the forest path and don’t talk to strangers, okay?”
+
+“Okay, Mommy,” replied the girl. She took the basket and went to Grandma’s.
+
+She was walking peacefully through the forest. Suddenly she saw red, juicy berries and really wanted to eat them. She picked one, then another, a third… and soon forgot about the path behind her.
+
+She went deeper and deeper into the forest.
+
+Suddenly… the wolf appeared!
+
+“Where are you going, little girl?” he asked, trying to speak in a nice voice.
+
+“I’m going to Grandma’s,” answered Little Red Riding Hood. “Grandma is sick. I’m bringing her cake and juice.”
+
+“Ohhh, that’s very nice,” said the wolf and smiled. “And where does Grandma live?”
+
+“In a little house, behind the big oak, at the end of the path.”
+
+“Well, well…” said the wolf, his soft voice full of concern, yet his eyes gleaming with delight. “A lonely, sick Grandma… what a pity.”
+
+The girl looked at him with slight unease.
+
+“Mommy said not to talk to strangers,” she added.
+
+“Of course, Mommy is right!” the wolf smiled. “I just… like to help. Maybe I’ll visit your granny too. I wish her good health!”
+
+And before Little Red Riding Hood could say anything, the wolf disappeared into the bushes. He ran quickly, taking a shortcut, because he knew the forest well. He wanted to reach Grandma’s house first.
+
+:section: es
+<h2 class="center"> <color:#901>*Caperucita Roja*</color></h2>
+
+
+<h3 class="center">I</h3>
+<div class="x-dropcap" style="--dropcap-color: #901">^^Había una vez^^ una niña a la que todos llamaban Caperucita Roja, porque a menudo llevaba una caperuza roja. Vivía con su mamá y su papá, y era tan amable que a todos les caía bien.
+
+Un día, su mamá le dijo: “Cariño, la abuela está enferma. Llévale esta cesta con pastel y jugo. Pero ve siempre por el camino del bosque y no hables con desconocidos, ¿de acuerdo?”
+
+“De acuerdo, mamá”, respondió la niña. Tomó la cesta y se fue hacia la casa de la abuela.
+
+Caminaba tranquilamente por el bosque. De repente vio unas bayas rojas y jugosas y le dieron muchas ganas de comerlas. Cogió una, luego otra, una tercera… y pronto se olvidó del camino.
+
+Fue adentrándose cada vez más en el bosque.
+
+De pronto… ¡apareció el lobo!
+
+“¿A dónde vas, niñita?”, preguntó, tratando de hablar con voz amable.
+
+“Voy a casa de la abuela”, respondió Caperucita Roja. “Está enferma. Le llevo pastel y jugo.”
+
+“Ohhh, qué bien”, dijo el lobo sonriendo. “¿Y dónde vive tu abuela?”
+
+“En una casita, detrás del gran roble, al final del camino.”
+
+“Ya veo…”, dijo el lobo, con una voz suave llena de preocupación, aunque sus ojos brillaban de alegría. “Una abuela solitaria y enferma… qué lástima.”
+
+La niña lo miró con cierta inquietud.
+
+“Mamá me dijo que no hablara con desconocidos”, añadió.
+
+“¡Claro, tu mamá tiene razón!”, sonrió el lobo. “Yo solo… me gusta ayudar. Quizá también visite a tu abuelita. ¡Le deseo mucha salud!”
+
+Y antes de que Caperucita Roja pudiera decir algo más, el lobo desapareció entre los arbustos. Corrió rápidamente, tomando un atajo, porque conocía bien el bosque. Quería llegar primero a la casa de la abuela.
