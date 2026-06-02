@@ -1,25 +1,38 @@
-<x-vars video-size=off text-cloze>
+<x-vars text-cloze practice-tips>
 :section: pl
 ### Dzień Nauki Polskiej
 ##font-size:80%## Źródło: <https://certyfikatpolski.pl/wp-content/uploads/2025/02/4-5.02.2024-B1_arkusz_egzaminacyjny.pdf#page=11>
 
 <small>~Tekst z lukami~</small> {x-view-gaps}
-Dzień Nauki Polskiej to jedno z najmłodszych [[świąt => (święto)]] państwowych w polskim [[kalendarzu => (kalendarz)]]. Po raz pierwszy obchodziliśmy [[je => (ono)]] w 2021 roku. Jego [[celem => (cel)]] jest docenienie najwybitniejszych polskich uczonych i zachęcanie młodych ludzi do odkrywania świata, a także pokazanie [[im => (oni)]], że nauka może być fascynująca. Działania te mają zmotywować [[uczniów => (uczniowie)]] i [[studentów => (studenci)]]do rozpoczęcia w przyszłości kariery naukowej. Dzień urodzin polskiego astronoma Mikołaja Kopernika, czyli 19 lutego, wybrano na Dzień Nauki Polskiej, ponieważ to jeden z naszych najwybitniejszych uczonych. Obecnie proste badania naukowe są dostępne dla każdego – nawet małe dzieci mogą mieć np. teleskopy lub mikroskopy i prowadzić obserwacje. Dla najmłodszych to pasja, która może zamienić się w ciekawy zawód. Dzień Nauki Polskiej to święto, które powinno być szczególnie celebrowane [[w => (w/na)]] szkołach i [[na =>(w/na)]] uniwersytetach. Uczniowie mogą na przykład przygotowywać wtedy prezentacje o naukowcach. Ciekawym pomysłem jest również lekcja w muzeum. W obchody tego święta powinny się włączyć firmy lub przedsiębiorstwa, które wykorzystują odkrycia naukowe i mogą to pokazać młodzieży. 
+Dzień Nauki Polskiej to jedno z najmłodszych [[świąt => (święto)]] państwowych w polskim [[kalendarzu => (kalendarz)]]. Po raz pierwszy obchodziliśmy [[je => (ono)]] w 2021 roku. Jego [[celem => (cel)]] jest docenienie najwybitniejszych polskich uczonych i zachęcanie młodych ludzi do odkrywania świata, a także pokazanie [[im => (oni)]], że nauka może być fascynująca. Działania te mają zmotywować [[uczniów => (uczniowie)]] i [[studentów => (studenci)]]do rozpoczęcia w przyszłości kariery naukowej. Dzień urodzin polskiego astronoma {{<img src=https://upload.wikimedia.org/wikipedia/commons/f/f2/Nikolaus_Kopernikus.jpg>|[Mikołaja Kopernika](https://pl.wikipedia.org/wiki/Miko%C5%82aj_Kopernik)}}, czyli 19 lutego, wybrano na Dzień Nauki Polskiej, ponieważ to jeden z naszych najwybitniejszych uczonych. Obecnie proste badania naukowe są dostępne dla każdego – nawet małe dzieci mogą mieć np. teleskopy lub mikroskopy i prowadzić obserwacje. Dla najmłodszych to pasja, która może zamienić się w ciekawy zawód. Dzień Nauki Polskiej to święto, które powinno być szczególnie celebrowane [[w => (w/na)]] szkołach i [[na =>(w/na)]] uniwersytetach. Uczniowie mogą na przykład przygotowywać wtedy prezentacje o naukowcach. Ciekawym pomysłem jest również lekcja w muzeum. W obchody tego święta powinny się włączyć firmy lub przedsiębiorstwa, które wykorzystują odkrycia naukowe i mogą to pokazać młodzieży. 
 
 *Słuchaj i powtarzaj za mówcą* <button onclick="tstore.ttsOverlay.shadowLines(2)">Start!</button>
 
-
-
+*Pytania do dyskusji na lekcji*
+1. Czy uważasz, że kraje powinny mieć święta państwowe poświęcone [[nauce => (nauka)]] lub [[naukowcom => (naukowca - lm)]]? Dlaczego tak lub dlaczego nie?
+2. Co może sprawić, że nauka stanie się bardziej atrakcyjna dla młodych ludzi?
+3. Jakie wyzwania mogą zniechęcać młodych ludzi do wyboru kariery naukowej?
+4. Które odkrycie naukowe miało największy wpływ na Twoje życie?
+5. Czy chciał(a)byś pracować w dziedzinie nauki? Dlaczego tak lub dlaczego nie?
+6. Czy firmy powinny odgrywać rolę w edukacji naukowej? Co mogłyby robić?
+7. Czy uważasz, że naukowcy są wystarczająco [[doceniani => (doceniany)]] w społeczeństwie w porównaniu ze sportowcami, aktorami czy influencerami?
 
 
 :section: en
 ### Polish Science Day
 ##font-size:80%## Source: <https://certyfikatpolski.pl/wp-content/uploads/2025/02/4-5.02.2024-B1_arkusz_egzaminacyjny.pdf#page=11>
 
-Text with gaps
-Polish Science Day is one of the youngest national holidays in the Polish calendar. It was first celebrated in 2021. Its goal is to recognize the most outstanding Polish scientists, encourage young people to explore the world, and show them that science can be fascinating. These activities are intended to motivate students to pursue scientific careers. The birthday of Polish astronomer Nicolaus Copernicus, February 19th, was chosen as Polish Science Day because he was one of our most distinguished scientists. Nowadays, simple scientific research is accessible to everyone – even small children can have telescopes or microscopes and conduct observations. For young children, it's a passion that can turn into an interesting profession. Polish Science Day is a holiday that should be especially celebrated in schools and universities. Students can, for example, prepare presentations about scientists. A lesson at a museum is also an interesting idea. Companies or businesses that use scientific discoveries and can share these with young people should join in celebrating this day.
+<small>~Text with gaps~</small>
+Polish Science Day is one of the youngest national holidays in the Polish calendar. It was first celebrated in 2021. Its goal is to recognize the most outstanding Polish scientists, encourage young people to explore the world, and show them that science can be fascinating. These activities are intended to motivate students to pursue scientific careers. The birthday of Polish astronomer {{<img src=https://upload.wikimedia.org/wikipedia/commons/f/f2/Nikolaus_Kopernikus.jpg>|[Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)}}, February 19th, was chosen as Polish Science Day because he was one of our most distinguished scientists. Nowadays, simple scientific research is accessible to everyone – even small children can have telescopes or microscopes and conduct observations. For young children, it's a passion that can turn into an interesting profession. Polish Science Day is a holiday that should be especially celebrated in schools and universities. Students can, for example, prepare presentations about scientists. A lesson at a museum is also an interesting idea. Companies or businesses that use scientific discoveries and can share these with young people should join in celebrating this day.
 
-Listen and repeat after the speaker
+*Listen and repeat after the speaker* <button onclick="tstore.ttsOverlay.shadowLines(2)">Start!</button>
 
-
+*Questions for discussion in class*
+1. Do you think countries should have national days dedicated to science or scientists? Why or why not?
+2. What can make science more attractive to young people?
+3. What challenges might discourage young people from choosing careers in science today?
+4. Which scientific discovery has had the biggest impact on your life?
+5. Would you like to work in a scientific field? Why or why not?
+6. Should companies play a role in science education? What could they do?
+7. Do you think scientists receive enough recognition in society compared with athletes, actors, or influencers?
 
