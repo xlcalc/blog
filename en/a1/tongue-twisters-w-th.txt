@@ -1,7 +1,8 @@
-<x-vars video-size=-1 ttsloop=1 lang='en-GB,en-US' speed=0.8>
-### W / TH Tongue Twisters <x-p>
+<x-vars ttsloop=1 lang='en' speed=0.8>
+### W / TH Tongue Twisters {{{
 
-~Record speech~ <x-switch>setRecSwitch(this.checked)</x-switch>&emsp;&emsp;~Speed~ <x-cmd id="pbr-box" cmd="SHOW_PBR"></x-cmd><hr></x-p><x-br>
+~Record speech~ <x-switch>setRecSwitch(this.checked)</x-switch>&emsp;&emsp;~{x-voice-ctrl}~&emsp;&emsp;~Speed~ <x-cmd id="pbr-box" cmd="SHOW_PBR"></x-cmd><hr>
+}}}
 *Listen and repeat after the speaker*
 <)) When they were there, they waited a while.
 <)) Then they weighed in with their warning.
