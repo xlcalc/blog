@@ -1,0 +1,24 @@
+<x-vars video-size=-1 ttsloop=1 lang='en-GB,en-US' speed=0.8>
+### W / TH Tongue Twisters <x-p>
+
+~Record speech~ <x-switch>setRecSwitch(this.checked)</x-switch>&emsp;&emsp;~Speed~ <x-cmd id="pbr-box" cmd="SHOW_PBR"></x-cmd><hr></x-p><x-br>
+*Listen and repeat after the speaker*
+<)) When they were there, they waited a while.
+<)) Then they weighed in with their warning.
+<)) They were wearing their wigs, weren't they?
+<)) Then, when the witches and wizards waved their wands, there was a strike of thunder, and they were gone.
+
+*Here's a rhyme to practice*
+<)) *Whether the weather*
+<)) Whether the weather be fine,
+<)) Or whether the weather be not,
+<)) Whether the weather be cold,
+<)) Or whether the weather be hot,
+<)) We'll weather the weather
+<)) Whatever the weather,
+<)) Whether we like it or not!
+
+Now repeat the whole rhyme: <)[Whether the weather be fine, Or whether the weather be not, Whether the weather be cold, Or whether the weather be hot, We'll weather the weather Whatever the weather, Whether we like it or not!]
+
+*Do you know what ~to weigh in~, a ~wig~ and ~to weather~ mean?*
+You can check it out [here](/w/weigh-in,wig,to-weather).
