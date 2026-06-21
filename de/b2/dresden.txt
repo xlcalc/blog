@@ -1,4 +1,5 @@
 <x-vars yt-id=tEjaiGj8wrw><x-video>
+:section: de
 ### 0:0 [Dresden: der perfekte Tag](https://youtu.be/tEjaiGj8wrw)
 
 Der perfekte Tag beginnt im Café Blumenau in der äußeren Neustadt. Hier können Sie preiswert und sehr lecker frühstücken. Das Café hat täglich ab halb 9, am Wochenende ab 9 Uhr geöffnet. Ganz so früh müssen Sie also in Dresden nicht aus den Federn.
@@ -23,7 +24,7 @@ Von der Frauenkirche gehen Sie nur wenige Minuten bis zum [Zwinger](https://de.w
 
 An einem lauen Sommerabend zeigt sich die Stadt an der Elbe dann von ihrer schönsten und prunkvollsten Seite. Ein guter Tipp für den Abschluss eines perfekten Tages in Dresden ist das Blue Note auf der rechten Elbseite in der äußeren Neustadt. In dem angesagten Jazzschuppen finden regelmäßig Sessions statt und außerdem können Sie hier bis morgens um 5 noch einen Absacker genießen.
 
-:transl:
+:section: en
 Dresden: the perfect day
 
 The perfect day begins at Café Blumenau in the outer Neustadt district. Here you can enjoy a delicious and affordable breakfast. The café is open daily from 8:30 a.m., and from 9:00 a.m. on weekends. So you don't have to get up quite that early in Dresden.
